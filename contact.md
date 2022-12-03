@@ -1,9 +1,9 @@
 ---
 title: /contact
 layout: home
-permalink: Contact
+permalink: contact
 ---
 
 # Contact
-
+  
 (You tried to contact her, but she already ran away.)
