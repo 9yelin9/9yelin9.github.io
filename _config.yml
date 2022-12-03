@@ -29,7 +29,7 @@ header_pages:
   - contact.md
 
 syntax_highlighter_style: colorful
-favicon_path: /assets/images/favicon.ico
+favicon_path: /assets/favicon.ico
 
 rss: RSS
 
