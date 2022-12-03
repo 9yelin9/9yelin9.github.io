@@ -18,7 +18,7 @@ description: "9yelin9's lonely island"
 
 url: "https://9yelin9.github.io"
 baseurl: ""
-permalink: /:title
+permalink: :title
   
 remote_theme: b2a3e8/jekyll-theme-console
 style: dark
