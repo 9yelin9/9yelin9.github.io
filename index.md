@@ -1,9 +1,9 @@
 ---
-title: Galapagos
+title: /
 layout: home
 permalink: Galapagos
 ---
 
 # Galapagos
-
-9yelin9's lonely island
+  
+Welcome to 9yelin9's lonely island
