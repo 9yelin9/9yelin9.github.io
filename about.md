@@ -1,9 +1,9 @@
 ---
-title: /about
+title: Contact
 layout: home
-permalink: /about
+permalink: Contact
 ---
 
-# Lorem ipsum
+# Contact
 
-Lorem ipsum dolor sit amet
+(You tried to contact her, but she already ran away.)
