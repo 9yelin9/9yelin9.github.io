@@ -6,4 +6,4 @@ permalink: /
 
 # Galapagos
   
-Welcome to 9yelin9's lonely island
+Welcome to 9yelin9's lonely island.
