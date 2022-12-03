@@ -25,7 +25,7 @@ style: dark
 listen_for_clients_preferred_style: false
 header_pages:
   - index.md
-  - about.md
+  - contact.md
 
 syntax_highlighter_style: colorful
 favicon_path: /assets/images/favicon.ico
