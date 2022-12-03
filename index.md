@@ -1,7 +1,7 @@
 ---
-title: /index
+title: /
 layout: home
-permalink: /index
+permalink: /
 ---
 
 # Lorem ipsum
