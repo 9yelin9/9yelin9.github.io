@@ -1,6 +1,7 @@
 ---
 title: /
 layout: home
+permalink: /
 ---
 
 # Galapagos
