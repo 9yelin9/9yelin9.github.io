@@ -20,7 +20,7 @@ google_analytics: G-9288R0DT8Q
 
 url: "https://9yelin9.github.io"
 baseurl: ""
-permalink: :title
+permalink: /:title
   
 remote_theme: b2a3e8/jekyll-theme-console
 style: dark
