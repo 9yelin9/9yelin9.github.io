@@ -1,7 +1,6 @@
 ---
-title: /
+title: galapagos
 layout: home
-permalink: /
 ---
 
 # Galapagos
