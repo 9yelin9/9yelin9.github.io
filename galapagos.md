@@ -1,5 +1,5 @@
 ---
-title: galapagos
+title: 
 layout: home
 ---
 
